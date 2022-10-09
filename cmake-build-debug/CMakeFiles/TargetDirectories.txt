@@ -1,0 +1,3 @@
+C:/Users/tolik/CLionProjects/Perevod/cmake-build-debug/CMakeFiles/Perevod.dir
+C:/Users/tolik/CLionProjects/Perevod/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tolik/CLionProjects/Perevod/cmake-build-debug/CMakeFiles/rebuild_cache.dir
